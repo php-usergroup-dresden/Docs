@@ -1,6 +1,6 @@
 # CALL FOR PAPERS (CFP)
 
-## Einsendeschluss: 31.03.2016
+## Einsendeschluss: 15. April 2016
 
 ### Über die PHP USERGROUP DRESDEN
 
